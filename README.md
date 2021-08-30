@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**fvilches17/fvilches17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fvilches17/)
+- 💬 Ask me about .NET, Azure, Blazor, and basically any modern tech trend
+- ⚡ Fun fact: You can fit ALL the other solar system's planets in the space between the Earth and the Moon 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fvilches17&show_icons=true&theme=dark" alt="fvilches17" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvilches17&layout=compact&hide=html&theme=dark" alt="fvilches17" />
+<div/>
+<br />
